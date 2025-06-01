@@ -1,0 +1,27 @@
+{
+  "name": "aiden-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdzpty/Aiden-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wdzpty/Aiden-Bot/issues"
+  },
+  "homepage": "https://github.com/wdzpty/Aiden-Bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+    
+  }
+  
+}
